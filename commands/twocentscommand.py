@@ -16,7 +16,7 @@ class TwocentsCommand( BaseCommand ):
 						Template("opens his eyes after a long pause, tells $name, manifestation, doesn’t just mean physical ... stupid!" ),
 						Template("'s eyes roll back in his head, speaks in a voice not his own. Flow of futures grasp, merges closer to decay pivot of present."),
 						Template("lights a !drink on fire for $name. Mutters, fuel the future by capturing the past."),
-						Template("astrally projects himself. Removing one factor could be an option of choice, but to do so will negate action on the indirect feedback loop of desire."),
+						Template("astrally projects himself. A voice emanates from above. Removing one factor could be an option of choice, but to do so will negate action on the indirect feedback loop of desire."),
 						Template("grabs $name by the shirt, spittle flying. Ideas are memories of the future, dammit!"),
 						Template("beckons $name closer and whispers in a conspiratorial tone, complacency of what is, is the stasis of existence."),
 						Template("levitates above the bar in the lotus position, surrounded by a glowing aura. Respect for what is, is the recognition of progress."),
