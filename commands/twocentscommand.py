@@ -23,7 +23,7 @@ class TwocentsCommand( BaseCommand ):
 						Template("'s voice echoes in $name's inner eye. no one else hears. Persistence in what is, is the conflict of requirement."),
 						Template("slaps some sense into $name. Is it really needed to done? stop! is it really needed to not be done? go!"),
 						Template("opens his switchblade and challenges $name to a !rumble. Bellows, risk is safety forming into pauses of progress."),
-						Template("shakes his heads hopelessly at $name. doubt for safety is witnessing stupidity. safe now. suffocating in risk later."),
+						Template("shakes his heads hopelessly at $name. Doubt for safety is witnessing stupidity. safe now. suffocating in risk later."),
 						Template("repeats enigmatically, < | > past < becoming < emerging < being > emerging > begoing > future < | >"),
 						Template("pulls out a Go board, challenges $name, says, on disagreement start the game. find along the way urgency to decide thoughts."),
 						Template("points $name to the loo. Calls after them, Explore entrances to points of no return for phases upgrading."),
